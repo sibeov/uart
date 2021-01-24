@@ -1,3 +1,6 @@
 [submodule "modules/uart_rx"]
 	path = modules/uart_rx
 	url = https://github.com/sibeov/uart_rx
+[submodule "lib/uart_common"]
+	path = lib/uart_common
+	url = https://github.com/sibeov/uart_common
